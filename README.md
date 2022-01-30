@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Setyns
+- 👋 Hi, I’m cleiton
 - 👀 I’m interested to be a programmer
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate idk yet
 - 📫 How to reach me cleitonmpc91@gmail.com
 
 <!---
