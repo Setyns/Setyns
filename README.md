@@ -1,6 +1,6 @@
 - 👋 Hi, I’m cleiton
 - 👀 I’m interested to be a programmer
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me cleitonmpc91@gmail.com
 
 <!---
